@@ -1,0 +1,25 @@
+{
+  "name": "hyperwave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": " A retro outrun / cyberpunk inspired Hyper theme ",
+  "license": "MIT",
+  "repository": "oscarmcm/hyperwave",
+  "author": {
+    "name": "Oscar Cortez",
+    "email": "oscarmcm@protonmail.com",
+    "url": "https://oscarmcm.website"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "dark",
+    "vaporwave",
+    "cyberpunk",
+    "theme",
+    "syntax"
+  ]
+}
